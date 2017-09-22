@@ -1,0 +1,29 @@
+.w3-display-container {
+  margin-top: 59px;
+  width: 100%;
+  height: 91vh;
+}
+
+.carousel {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-inner {
+  height: inherit;
+}
+
+.relative {
+  position: relative;
+}
+
+.relative h1 {
+  font-weight: bold;
+  color: #f1f1f1;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
